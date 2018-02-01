@@ -1,4 +1,9 @@
 <?php
+/*
+	
+	This code is written by H.A.Ramesh Kithsiri.
+	This is a useful codes to ecommerce websites and cheque writing softwares.
+*/
 
 class NumToSin{
 
