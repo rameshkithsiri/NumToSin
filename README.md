@@ -2,6 +2,8 @@
 A simple numeric to Sinhala Unicode converter.
 Range is 0 - 99 trillions.
 
+හින්දු අරාබි ඉලක්කම් සිංහල වචන වලට පරිවර්තනය කිරීමට කිසිඳු php ෙක්තයක් ‍නොතිබුණු නිසා මෙය කේත කරන ලදී . අපගේ මුළු පරාසය වනුයේ මිලියන 99 ත් 0ත් අතරය. මෙය ecommerce වෙබ් අඩවි ආදිය සඳහා ප්‍රයෝජනවත් වේවැයි සිතමු.
+
 
 ## Usage
 1.You want to add our library file.
